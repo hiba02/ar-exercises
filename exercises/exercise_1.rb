@@ -3,7 +3,7 @@ require_relative '../setup'
 puts "Exercise 1"
 puts "----------"
 
-count = 0
+
 
 s1 = Store.new
 s1.name = "Burnaby"
